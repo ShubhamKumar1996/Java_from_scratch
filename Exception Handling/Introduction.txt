@@ -1,0 +1,10 @@
+Two Key Points while handling exception: -
+1. Friendly message to end user.
+2. Enough infromation to debug the problem.
+
+Important point related to Exception Handling: -
+1. Code segment after the line which is throwing exception will not get executed if there is not exception handling for it.
+2. There can be multiple catch block inside one try-catch.
+
+
+Hierarchy of Exception: -
